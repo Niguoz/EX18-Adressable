@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Base Ships
+  m_EditorClassIdentifier: 
+  m_GroupName: Base Ships
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4e0eeec3fe325934bba3bfaa96d7ba6f
+  m_SerializeEntries:
+  - m_GUID: e5385c72ca401a44da0d96e8952f240e
+    m_Address: ship_0001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - twitterbonus
+    - baseship
+  - m_GUID: efc99fcaaaefddf4184245da23b270a7
+    m_Address: ship_0004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - baseship
+  - m_GUID: f781f18b64f47d44db52e0e26347651c
+    m_Address: ship_0005
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - baseship
+    - twitterbonus
+  - m_GUID: 8f60109ddc3bd5d488a2195345f68f9a
+    m_Address: ship_0003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - baseship
+  - m_GUID: 8cf0ba862cad44749aacffcc4ba3f3a3
+    m_Address: ship_0002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - baseship
+  - m_GUID: 8910fb613574fb64284fd6bf56f64275
+    m_Address: ship_0000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - baseship
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4ee802bcd82508e4796fbbfb5733b15d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fbd1cce0373c10847bad126d5806d715, type: 2}
+    - {fileID: 11400000, guid: bc75f2e5ed6ca8542928955b42246d3e, type: 2}
