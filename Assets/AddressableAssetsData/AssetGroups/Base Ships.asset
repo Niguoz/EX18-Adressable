@@ -49,6 +49,28 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - baseship
+  - m_GUID: 4349ca1218ee37544b59e1d77aa5557e
+    m_Address: ship_0013
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - baseship
+  - m_GUID: c9645ebd74be8c042b4563a3ec0e4b2e
+    m_Address: ship_0009
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 244fb0bf5f55efe4ba15b71c5989b8b2
+    m_Address: ship_0012
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7086d8ea2c2ba024ea7e8d577322fb31
+    m_Address: ship_0011
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bcf571ad5936d348bb17edb42ac6cac
+    m_Address: ship_0010
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - facebookbonus
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4ee802bcd82508e4796fbbfb5733b15d, type: 2}
   m_SchemaSet:

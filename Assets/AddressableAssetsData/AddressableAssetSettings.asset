@@ -85,6 +85,7 @@ MonoBehaviour:
     - default
     - baseship
     - twitterbonus
+    - facebookbonus
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 5d883f39664b22b41b46af5149c16ee0, type: 2}

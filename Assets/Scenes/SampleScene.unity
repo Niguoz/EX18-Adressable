@@ -329,18 +329,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d23af55f444d363479c330fbdf6364ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  label: baseship
-  path: baseship
-  sp:
-    m_AssetGUID: 8910fb613574fb64284fd6bf56f64275
-    m_SubObjectName: 
-    m_SubObjectType: 
-    m_EditorAssetChanged: 0
-  m:
-    m_AssetGUID: 273d36342972bff4d867989215cce1d8
-    m_SubObjectName: 
-    m_SubObjectType: 
-    m_EditorAssetChanged: 0
+  labels:
+  - baseship
+  - twitterbonus
+  path: ShipModel01
 --- !u!4 &2010778047
 Transform:
   m_ObjectHideFlags: 0
